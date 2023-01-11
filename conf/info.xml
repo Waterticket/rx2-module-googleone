@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="0.2">
+	<title xml:lang="ko">Google One Tab 로그인</title>
+	<description xml:lang="ko">구글 원탭 로그인을 위한 모듈입니다.</description>
+	<version>1.0.0</version>
+	<date>2023-01-11</date>
+	<category>service</category>
+	<author email_address="matthew218@naver.com" link="https://shop.hoto.dev">
+		<name xml:lang="ko">Waterticket</name>
+	</author>
+</module>

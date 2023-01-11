@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+	<grants>
+	</grants>
+	<actions>
+		<!-- 관리자 액션 -->
+		<action name="dispGoogleoneAdminConfig" class="Controllers\Admin" menu_name="googleone" admin_index="true" />
+		<action name="procGoogleoneAdminInsertConfig" class="Controllers\Admin" />
+		<!-- 메인 화면 예제 -->
+		<action name="dispGoogleoneIndex" class="Controllers\Index" index="true" />
+	</actions>
+	<menus>
+		<menu name="googleone" type="all">
+			<title xml:lang="ko">Google One Tab 로그인</title>
+		</menu>
+	</menus>
+</module>
