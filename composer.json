@@ -1,0 +1,13 @@
+{
+    "name": "waterticket/googleone",
+    "type": "library",
+    "require": {
+        "firebase/php-jwt": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Waterticket",
+            "email": "matthew218@naver.com"
+        }
+    ]
+}
